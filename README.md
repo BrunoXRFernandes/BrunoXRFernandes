@@ -26,4 +26,3 @@ My technology stack involves Java, SQL, JavaScript, C#, React. I have recently s
 </div>
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
