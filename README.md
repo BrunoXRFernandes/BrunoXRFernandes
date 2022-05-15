@@ -29,5 +29,8 @@ My technology stack involves Java, SQL, HTML, CSS, JavaScript, C#, React. I have
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" align="left" alt="git" height='42px'/> </a>
 <br>
 
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?BrunoXRFernandes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?BrunoXRFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
