@@ -15,9 +15,6 @@ My technology stack involves Java, SQL, JavaScript, C#, React. I have recently s
 <a href="https://github.com/BrunoXRFernandes" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/520px-Unofficial_JavaScript_logo_2.svg.png"> </a>
 <a href="https://github.com/BrunoXRFernandes" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></a>
 <a href="https://github.com/BrunoXRFernandes" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"></a>
-
-
-
 <br>
 <br>
 <br>
@@ -28,3 +25,5 @@ My technology stack involves Java, SQL, JavaScript, C#, React. I have recently s
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoXRFernandes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
