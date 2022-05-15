@@ -14,14 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
-
-- 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
-- ⚡ Fun fact: Checkout my [Lean2Lead Pune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169) Community if you are ambitious!
-- 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
+Hello, my name is Bruno Fernandes and I'm currently studying at Instituto Superior de Engenharia do Porto, and I'm doing an internship at Celfocus in the IoT project.
+I like all kinds of development, especially BackEnd.
+My technology stack involves Java, SQL, HTML, CSS, JavaScript, C#, React. I have recently started learning python as well. In addition to programming, I have an interest in music and soccer.
 
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
@@ -31,5 +26,8 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.techentice.com/media/2020/06/docker.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" align="left" alt="git" height='42px'/> </a>
 <br>
+
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
