@@ -28,9 +28,11 @@ My technology stack involves Java, SQL, HTML, CSS, JavaScript, C#, React. I have
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" align="left" alt="git" height='42px'/> </a>
 <br>
+<br>
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?BrunoXRFernandes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?BrunoXRFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoXRFernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoXRFernandes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
