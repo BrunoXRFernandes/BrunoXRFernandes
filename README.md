@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bruno Fernandes and I'm currently studying at Instituto Superior de Engenharia do Porto, and I'm doing an internship at Celfocus in the IoT project.
+My name is Bruno Fernandes and I'm currently studying at Instituto Superior de Engenharia do Porto, and working at Celfocus in the IoT project.
 I like all kinds of development, especially BackEnd.
 My technology stack involves Java, SQL, JavaScript, C#, React. I have recently started learning python as well. In addition to programming, I have an interest in music and soccer.
 
